@@ -14,27 +14,6 @@
 
 ---
 
-```python
-class Hannah:
-    passion = "exploring what's possible with AI"
-    status  = "always curious ✦"
-    mission = "learn → imagine → build → repeat"
-
-    def currently(self):
-        return "turning random ideas into tiny experiments ♡"
-```
-
-<div align="center">
-
-### ⌗ `SYSTEM.LOG`
-
-```text
-[+] curiosity.exe       RUNNING
-[+] ai_explorer.exe     RUNNING
-[+] new_ideas.exe       ALWAYS RUNNING
-[-] sleep.exe           NOT FOUND
-```
-
 <br>
 
 **I don't just want to use AI.**
